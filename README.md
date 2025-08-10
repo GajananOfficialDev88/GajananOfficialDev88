@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajanan2907&label=Profile%20views&color=0e75b6&style=flat" alt="gajanan2907" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GajananOfficialDev88&label=Profile%20views&color=0e75b6&style=flat" alt="GajananOfficialDev88" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/iamgajanandchoudhary/" target="_blank">
+  <a href="https://www.linkedin.com/in/gajananofficialdev88/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
