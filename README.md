@@ -10,7 +10,7 @@
     <li>🔭 Currently contributing to the development of the innovative <a href=""> Full Stack Web Application</a></li>
     <li>🌱 Mastering ReactJs, exploring AWS, and conquering SpringBoot.</li>
     <li>💬 Let's discuss a wide array of technologies including Java, Javascript, TypeScript, React, Spring-boot, and MySQL.</li>
-    <li>📫 Connect with me: <a href="mailto:choudharygajanan2907@gmail.com">choudharygajanan2907@gmail.com</a>.</li>
+    <li>📫 Connect with me: <a href="mailto:choudharyGajananOfficialDev88@gmail.com">choudharyGajananOfficialDev88@gmail.com</a>.</li>
     <li>💻 Full Stack Developer with expertise from front end to back end and database:</li>
     <ul style="list-style-type: none; padding: 0; margin: 0;">
         <li>Front End: HTML, CSS, React Js</li>
@@ -40,8 +40,8 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanan2907&show_icons=true&locale=en&layout=compact" alt="gajanan2907" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GajananOfficialDev88&show_icons=true&locale=en&layout=compact" alt="GajananOfficialDev88" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajanan2907&show_icons=true&locale=en" alt="gajanan2907" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GajananOfficialDev88&show_icons=true&locale=en" alt="GajananOfficialDev88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan2907&" alt="gajanan2907" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GajananOfficialDev88&" alt="GajananOfficialDev88" /></p>
