@@ -10,7 +10,7 @@
     <li>🔭 Currently contributing to the development of the innovative <a href=""> Full Stack Web Application</a></li>
     <li>🌱 Mastering ReactJs, exploring AWS, and conquering SpringBoot.</li>
     <li>💬 Let's discuss a wide array of technologies including Java, Javascript, TypeScript, React, Spring-boot, and MySQL.</li>
-    <li>📫 Connect with me: <a href="mailto:choudharyGajananOfficialDev88@gmail.com">choudharyGajananOfficialDev88@gmail.com</a>.</li>
+    <li>📫 Connect with me: <a href="mailto:choudharygajanan2907@gmail.com">choudharygajanan2907@gmail.com</a>.</li>
     <li>💻 Full Stack Developer with expertise from front end to back end and database:</li>
     <ul style="list-style-type: none; padding: 0; margin: 0;">
         <li>Front End: HTML, CSS, React Js</li>
